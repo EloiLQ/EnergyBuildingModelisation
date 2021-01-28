@@ -4,7 +4,7 @@ Projet du parcours Master 2 Data Science d'OpenClassrooms - Central/Supélec.
 
 ## Projet Principal
 
-Dans ce projet, on réalise une modélisation de la consommation d'énergie annuelle des batîments de Seattle à partir de [données](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv) récoltées par la ville de Seattle. L'objectif est de tester plusieurs algorithmes d'apprentissage machine, et de choisir la solution la plus adaptée à notre problématique. Ce choix s'appuie sur trois **critères** : 
+Dans ce projet, on réalise une modélisation de la consommation d'énergie annuelle des bâtiments de Seattle à partir de [données](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv) récoltées par la ville de Seattle. L'objectif est de tester plusieurs algorithmes d'apprentissage machine, et de choisir la solution la plus adaptée à notre problématique. Ce choix s'appuie sur trois **critères** : 
 - les performances moyennes du modèle
 - le pouvoir de généralisation du modèle
 - la complexité/temps de calcul de la modélisation
