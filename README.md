@@ -1,4 +1,4 @@
-# EnergyBuildingModelisation
+# Modélisation de la Consommation d'Énergie des Bâtiments de Seattle
 
 Projet du parcours Master 2 Data Science d'OpenClassrooms - Central/Supélec.
 
